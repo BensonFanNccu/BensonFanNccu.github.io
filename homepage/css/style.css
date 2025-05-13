@@ -41,6 +41,7 @@ h1 {
 	transform: scale(1.02);
 }
 footer {
+	text-align: center;
 	font-size: 0.9rem;
 	color: #6e7681;
 	margin-top: 2rem;
